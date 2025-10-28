@@ -6,4 +6,4 @@ Built in Figma Make with a Supabase backend, To The 6th lets users classify firs
 
 ## Demo Video
 
-Watch the demo here: [Google Drive - Demo Video](https://drive.google.com/file/d/1F203oYbgfewGCWWesjQTbW7ygTOmDhU0/view?usp=drive_link)
+Watch the demo here: [Google Drive - Demo Video](https://drive.google.com/file/d/1GeY_2fUL4PM9mcjxATlP_H6KamU5IPy_/view?usp=sharing)
